@@ -1,0 +1,4 @@
+ibm-watsonx-ai
+gradio
+python-dotenv
+requests
